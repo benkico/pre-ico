@@ -101,7 +101,7 @@ contract AscToken is StandardToken {
      * Token meta data
      */
     string constant public name = "ASC";
-    string constant public symbol = "HMQ";
+    string constant public symbol = "ASC";
     uint8 constant public decimals = 0;
 
     address public founder = 0x0;
