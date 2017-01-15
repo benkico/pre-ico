@@ -43,7 +43,7 @@ contract AscICO {
     address public multisig;
     uint public startDate = 0;
     uint public icoBalance = 0;
-    uint public baseTokenPrice = 666 szabo; // 0.000666 ETH
+    uint public baseTokenPrice = 777 szabo; // 0.000777 ETH
     uint public discountedPrice = baseTokenPrice;
     bool public isICOActive = false;
 
